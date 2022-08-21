@@ -1,5 +1,4 @@
-# Deployed Project
-[Link](https://6301ca9e99e37854c21e1b79--famous-babka-f169d1.netlify.app/)
+# Deployed Project [Link](https://6301ca9e99e37854c21e1b79--famous-babka-f169d1.netlify.app/)
 
 
 # Getting Started with Create React App
